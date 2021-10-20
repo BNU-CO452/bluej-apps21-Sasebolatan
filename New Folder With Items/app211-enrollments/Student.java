@@ -3,11 +3,11 @@
  * a student at BNU.  The class also contains information 
  * concerning the course the student is currently enrolled on
  * 
- * @author Michael Kölling and David Barnes
- * @modified by Derek Peacock and Nicholas Day
+ * @author Samuel asebolatan 
+ * @modified by Samuel asebolatan 
  * @version 2021:08:15
  */
-public class Student
+public class Student 
 {
     // A unique 8 digit BNU identifier
     private int id;
