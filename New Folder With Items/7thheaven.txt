@@ -1,89 +1,11 @@
  Student ID: 21928112 Name: Samuel
- Student ID: 21928112 Name: Samuel
- Student ID: 21928112 Name: Samuel
- Student ID: 21928112 Name: Samuel
- Student ID: 21928112 Name: Samuel
- Student ID: 21928112 Name: Samuel
  --------------------------------
    App211: Course Details
  --------------------------------
 
  Course Code: BT1SFT1: Software Engineering
 
- --------------------------------
-   App211: Course Details
- --------------------------------
 
- Course Code: BT1SFT1: Software Engineering
-
- Student ID: 21928112 Name: samuel
- --------------------------------
-   App211: Course Details
- --------------------------------
-
- Course Code: BT1SFT1: Software Engineering
-
- --------------------------------
-   App211: Course Details
- --------------------------------
-
- Course Code: BT1SFT1: Software Engineering
-
- --------------------------------
-   App211: Course Details
- --------------------------------
-
- Course Code: BT1SFT1: Software Engineering
-
- --------------------------------
-   App211: Course Details
- --------------------------------
-
- Course Code: BT1SFT1: Software Engineering
-
- --------------------------------
-   App211: Course Details
- --------------------------------
-
- Course Code: BT1SFT1: Software Engineering
-
- Student ID: 21928112 Name: samuel
- --------------------------------
-   App211: Course Details
- --------------------------------
-
- Course Code: BT1SFT1: BSc Software Engineering
-
- --------------------------------
-   App211: Course Details
- --------------------------------
-
- Course Code: BT1SFT1: BSc Software Engineering
-
- Student ID: 21928112 Name: samuel
- --------------------------------
-   App211: Course Details
- --------------------------------
-
- Course Code: BT1SFT1: BSc Software Engineering
-
- Student ID: 21928112 Name: samuel
- Student ID: 21928112 Name: samuel
- --------------------------------
-   App211: Course Details
- --------------------------------
-
- Course Code: BT1SFT1: BSc Software Engineering
-
- Student ID: 21928112 Name: samuel
- Student ID: 21928112 Name: samuel
- --------------------------------
-   App211: Course Details
- --------------------------------
-
- Course Code: BT1SFT1: BSc Software Engineering
-
- Student ID: 21928112 Name: Samuelasebolatan
  Student ID: 21928112 Name: Samuelasebolatan
 Course Softwareengineering = new Course("BT1SFT1", "BSc Software Engineering");
 samuelasebolatan.enrol(Softwareengineering);
