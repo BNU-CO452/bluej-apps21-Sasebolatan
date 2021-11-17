@@ -1,0 +1,851 @@
+StockDemo stockDem1 = new StockDemo();
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+Not enough space for Gears of War sell existing stock
+Not enough space for Battlefield 2042 sell existing stock
+Couldn't find product
+Not enough space for Fifa 22 sell existing stock
+Not enough space for Farcry 6 sell existing stock
+Not enough space for God of War Ragnarök sell existing stock
+Not enough space for Grand theft Auto:The Triolgy sell existing stock
+Not enough space for Elden Ring sell existing stock
+Not enough space for Call of Duty: Vanguard sell existing stock
+Not enough space for Final Fantasy XIV: Endwalker sell existing stock
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+The product Gears of War is out of stock
+The product Battlefield 2042 is out of stock
+    Exception occurred.
+StockDemo samsdemo = new StockDemo();
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+Not enough space for Gears of War sell existing stock
+Not enough space for Battlefield 2042 sell existing stock
+Couldn't find product
+Not enough space for Fifa 22 sell existing stock
+Not enough space for Farcry 6 sell existing stock
+Not enough space for God of War Ragnarök sell existing stock
+Not enough space for Grand theft Auto:The Triolgy sell existing stock
+Not enough space for Elden Ring sell existing stock
+Not enough space for Call of Duty: Vanguard sell existing stock
+Not enough space for Final Fantasy XIV: Endwalker sell existing stock
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+The product Gears of War is out of stock
+The product Battlefield 2042 is out of stock
+    Exception occurred.
+StockDemo stockDem1 = new StockDemo();
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+Not enough space for Gears of War sell existing stock
+Not enough space for Battlefield 2042 sell existing stock
+Couldn't find product
+Not enough space for Fifa 22 sell existing stock
+Not enough space for Farcry 6 sell existing stock
+Not enough space for God of War Ragnarök sell existing stock
+Not enough space for Grand theft Auto:The Triolgy sell existing stock
+Not enough space for Elden Ring sell existing stock
+Not enough space for Call of Duty: Vanguard sell existing stock
+Not enough space for Final Fantasy XIV: Endwalker sell existing stock
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+The product Gears of War is out of stock
+The product Battlefield 2042 is out of stock
+    Exception occurred.
+StockDemo stockDem1 = new StockDemo();
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+    Exception occurred.
+Not enough space for Gears of War sell existing stock
+Not enough space for Battlefield 2042 sell existing stock
+Couldn't find product
+Not enough space for Fifa 22 sell existing stock
+Not enough space for Farcry 6 sell existing stock
+Not enough space for God of War Ragnarök sell existing stock
+Not enough space for Grand theft Auto:The Triolgy sell existing stock
+Not enough space for Elden Ring sell existing stock
+Not enough space for Call of Duty: Vanguard sell existing stock
+Not enough space for Final Fantasy XIV: Endwalker sell existing stock
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+The product Gears of War is out of stock
+The product Battlefield 2042 is out of stock
+StockList stockLis1 = new StockList();
+stockLis1.print();
+
+ Samuel's Stock List
+ ====================
+
+
+Product gearsofwar = new Product(101, "gearsofwar");
+Product Battlefield2042 = new Product(102, "battlefield2042");
+StockList stocklist = new StockList();
+gearsofwar.increaseQuantity(50);
+Battlefield2042.increaseQuantity(60);
+stocklist.add(Battlefield2042);
+stocklist.add(gearsofwar);
+stocklist.print();
+
+ Samuel's Stock List
+ ====================
+
+ ID 102: battlefield2042 stock level: 60
+ ID 101: gearsofwar stock level: 50
+
+gearsofwar.decreaseQuantity(6);
+Battlefield2042.decreaseQuantity(6);
+stocklist.add(Battlefield2042);
+stocklist.add(gearsofwar);
+stocklist.print();
+
+ Samuel's Stock List
+ ====================
+
+ ID 102: battlefield2042 stock level: 54
+ ID 101: gearsofwar stock level: 44
+ ID 102: battlefield2042 stock level: 54
+ ID 101: gearsofwar stock level: 44
+
+StockDemo stockDem1 = new StockDemo();
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+Not enough space for Gears of War sell existing stock
+Not enough space for Battlefield 2042 sell existing stock
+Couldn't find product
+Not enough space for Fifa 22 sell existing stock
+Not enough space for Farcry 6 sell existing stock
+Not enough space for God of War Ragnarök sell existing stock
+Not enough space for Grand theft Auto:The Triolgy sell existing stock
+Not enough space for Elden Ring sell existing stock
+Not enough space for Call of Duty: Vanguard sell existing stock
+Not enough space for Final Fantasy XIV: Endwalker sell existing stock
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+The product Gears of War is out of stock
+The product Battlefield 2042 is out of stock
+    Exception occurred.
+StockDemo samueldemo = new StockDemo();
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+Not enough space for Gears of War sell existing stock
+Not enough space for Battlefield 2042 sell existing stock
+Couldn't find product
+Not enough space for Fifa 22 sell existing stock
+Not enough space for Farcry 6 sell existing stock
+Not enough space for God of War Ragnarök sell existing stock
+Not enough space for Grand theft Auto:The Triolgy sell existing stock
+Not enough space for Elden Ring sell existing stock
+Not enough space for Call of Duty: Vanguard sell existing stock
+Not enough space for Final Fantasy XIV: Endwalker sell existing stock
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+The product Gears of War is out of stock
+The product Battlefield 2042 is out of stock
+Can't sell 
+The product Fifa 22 is out of stock
+The product Farcry 6 is out of stock
+The product God of War Ragnarök is out of stock
+The product Grand theft Auto:The Triolgy is out of stock
+The product Elden Ring is out of stock
+The product Call of Duty: Vanguard is out of stock
+The product Final Fantasy XIV: Endwalker is out of stock
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+samueldemo.runDemo();
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+Not enough space for Gears of War sell existing stock
+Not enough space for Battlefield 2042 sell existing stock
+Couldn't find product
+Not enough space for Fifa 22 sell existing stock
+Not enough space for Farcry 6 sell existing stock
+Not enough space for God of War Ragnarök sell existing stock
+Not enough space for Grand theft Auto:The Triolgy sell existing stock
+Not enough space for Elden Ring sell existing stock
+Not enough space for Call of Duty: Vanguard sell existing stock
+Not enough space for Final Fantasy XIV: Endwalker sell existing stock
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+The product Gears of War is out of stock
+The product Battlefield 2042 is out of stock
+Can't sell 
+The product Fifa 22 is out of stock
+The product Farcry 6 is out of stock
+The product God of War Ragnarök is out of stock
+The product Grand theft Auto:The Triolgy is out of stock
+The product Elden Ring is out of stock
+The product Call of Duty: Vanguard is out of stock
+The product Final Fantasy XIV: Endwalker is out of stock
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+StockList SAM = new StockList();
+StockList stocklist = new StockList();
+StockDemo stockDem1 = new StockDemo(stocklist);
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+Not enough space for Gears of War sell existing stock
+Not enough space for Battlefield 2042 sell existing stock
+Couldn't find product
+Not enough space for Fifa 22 sell existing stock
+Not enough space for Farcry 6 sell existing stock
+Not enough space for God of War Ragnarök sell existing stock
+Not enough space for Grand theft Auto:The Triolgy sell existing stock
+Not enough space for Elden Ring sell existing stock
+Not enough space for Call of Duty: Vanguard sell existing stock
+Not enough space for Final Fantasy XIV: Endwalker sell existing stock
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+The product Gears of War is out of stock
+The product Battlefield 2042 is out of stock
+Can't sell 
+The product Fifa 22 is out of stock
+The product Farcry 6 is out of stock
+The product God of War Ragnarök is out of stock
+The product Grand theft Auto:The Triolgy is out of stock
+The product Elden Ring is out of stock
+The product Call of Duty: Vanguard is out of stock
+The product Final Fantasy XIV: Endwalker is out of stock
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+stocklist.print();
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+StockList stockLis1 = new StockList();
+StockDemo stockDem1 = new StockDemo(stockLis1);
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+Bought 800Gears of War
+Bought 900Battlefield 2042
+Couldn't find product
+Bought 400Fifa 22
+Bought 300Farcry 6
+Bought 1400God of War Ragnarök
+Bought 2500Grand theft Auto:The Triolgy
+Bought 400Elden Ring
+Bought 2000Call of Duty: Vanguard
+Bought 300Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 800
+ ID 102: Battlefield 2042 stock level: 900
+ ID 104: Fifa 22 stock level: 400
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1400
+ ID 107: Grand theft Auto:The Triolgy stock level: 2500
+ ID 108: Elden Ring stock level: 400
+ ID 109: Call of Duty: Vanguard stock level: 2000
+ ID 110: Final Fantasy XIV: Endwalker stock level: 300
+
+sold 700Gears of War
+sold 200Battlefield 2042
+Can't sell 
+sold 100Fifa 22
+sold 200God of War Ragnarök
+sold 100Grand theft Auto:The Triolgy
+sold 150Elden Ring
+sold 150Call of Duty: Vanguard
+sold 150Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 100
+ ID 102: Battlefield 2042 stock level: 700
+ ID 104: Fifa 22 stock level: 300
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1200
+ ID 107: Grand theft Auto:The Triolgy stock level: 2400
+ ID 108: Elden Ring stock level: 250
+ ID 109: Call of Duty: Vanguard stock level: 1850
+ ID 110: Final Fantasy XIV: Endwalker stock level: 150
+
+stockDem1.runDemo();
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 100
+ ID 102: Battlefield 2042 stock level: 700
+ ID 104: Fifa 22 stock level: 300
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1200
+ ID 107: Grand theft Auto:The Triolgy stock level: 2400
+ ID 108: Elden Ring stock level: 250
+ ID 109: Call of Duty: Vanguard stock level: 1850
+ ID 110: Final Fantasy XIV: Endwalker stock level: 150
+
+Bought 800Gears of War
+Bought 900Battlefield 2042
+Couldn't find product
+Bought 400Fifa 22
+Bought 300Farcry 6
+Not enough space for God of War Ragnarök sell existing stock
+Not enough space for Grand theft Auto:The Triolgy sell existing stock
+Bought 400Elden Ring
+Not enough space for Call of Duty: Vanguard sell existing stock
+Bought 300Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 900
+ ID 102: Battlefield 2042 stock level: 1600
+ ID 104: Fifa 22 stock level: 700
+ ID 105: Farcry 6 stock level: 600
+ ID 106: God of War Ragnarök stock level: 1200
+ ID 107: Grand theft Auto:The Triolgy stock level: 2400
+ ID 108: Elden Ring stock level: 650
+ ID 109: Call of Duty: Vanguard stock level: 1850
+ ID 110: Final Fantasy XIV: Endwalker stock level: 450
+
+sold 700Gears of War
+sold 200Battlefield 2042
+Can't sell 
+sold 100Fifa 22
+sold 300Farcry 6
+sold 200God of War Ragnarök
+sold 100Grand theft Auto:The Triolgy
+sold 150Elden Ring
+sold 150Call of Duty: Vanguard
+sold 150Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 200
+ ID 102: Battlefield 2042 stock level: 1400
+ ID 104: Fifa 22 stock level: 600
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1000
+ ID 107: Grand theft Auto:The Triolgy stock level: 2300
+ ID 108: Elden Ring stock level: 500
+ ID 109: Call of Duty: Vanguard stock level: 1700
+ ID 110: Final Fantasy XIV: Endwalker stock level: 300
+
+StockList stockLis1 = new StockList();
+StockDemo stockDem1 = new StockDemo(stockLis1);
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+Bought 800Gears of War
+Bought 900Battlefield 2042
+Couldn't find product
+Bought 400Fifa 22
+Bought 300Farcry 6
+Bought 1400God of War Ragnarök
+Bought 2500Grand theft Auto:The Triolgy
+Bought 400Elden Ring
+Bought 2000Call of Duty: Vanguard
+Bought 300Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 800
+ ID 102: Battlefield 2042 stock level: 900
+ ID 104: Fifa 22 stock level: 400
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1400
+ ID 107: Grand theft Auto:The Triolgy stock level: 2500
+ ID 108: Elden Ring stock level: 400
+ ID 109: Call of Duty: Vanguard stock level: 2000
+ ID 110: Final Fantasy XIV: Endwalker stock level: 300
+
+sold 700Gears of War
+sold 200Battlefield 2042
+Can't sell 
+sold 100Fifa 22
+sold 200God of War Ragnarök
+sold 100Grand theft Auto:The Triolgy
+sold 150Elden Ring
+sold 150Call of Duty: Vanguard
+sold 150Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 100
+ ID 102: Battlefield 2042 stock level: 700
+ ID 104: Fifa 22 stock level: 300
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1200
+ ID 107: Grand theft Auto:The Triolgy stock level: 2400
+ ID 108: Elden Ring stock level: 250
+ ID 109: Call of Duty: Vanguard stock level: 1850
+ ID 110: Final Fantasy XIV: Endwalker stock level: 150
+
+stockDem1.runDemo();
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 100
+ ID 102: Battlefield 2042 stock level: 700
+ ID 104: Fifa 22 stock level: 300
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1200
+ ID 107: Grand theft Auto:The Triolgy stock level: 2400
+ ID 108: Elden Ring stock level: 250
+ ID 109: Call of Duty: Vanguard stock level: 1850
+ ID 110: Final Fantasy XIV: Endwalker stock level: 150
+
+Bought 800Gears of War
+Bought 900Battlefield 2042
+Couldn't find product
+Bought 400Fifa 22
+Bought 300Farcry 6
+Not enough space for God of War Ragnarök sell existing stock
+Not enough space for Grand theft Auto:The Triolgy sell existing stock
+Bought 400Elden Ring
+Not enough space for Call of Duty: Vanguard sell existing stock
+Bought 300Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 900
+ ID 102: Battlefield 2042 stock level: 1600
+ ID 104: Fifa 22 stock level: 700
+ ID 105: Farcry 6 stock level: 600
+ ID 106: God of War Ragnarök stock level: 1200
+ ID 107: Grand theft Auto:The Triolgy stock level: 2400
+ ID 108: Elden Ring stock level: 650
+ ID 109: Call of Duty: Vanguard stock level: 1850
+ ID 110: Final Fantasy XIV: Endwalker stock level: 450
+
+sold 700Gears of War
+sold 200Battlefield 2042
+Can't sell 
+sold 100Fifa 22
+sold 300Farcry 6
+sold 200God of War Ragnarök
+sold 100Grand theft Auto:The Triolgy
+sold 150Elden Ring
+sold 150Call of Duty: Vanguard
+sold 150Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 200
+ ID 102: Battlefield 2042 stock level: 1400
+ ID 104: Fifa 22 stock level: 600
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1000
+ ID 107: Grand theft Auto:The Triolgy stock level: 2300
+ ID 108: Elden Ring stock level: 500
+ ID 109: Call of Duty: Vanguard stock level: 1700
+ ID 110: Final Fantasy XIV: Endwalker stock level: 300
+
+stockLis1.remove(101);
+ ID 101: Gears of War stock level: 200has been removed
+stockLis1.print();
+
+ Samuel's Stock List
+ ====================
+
+ ID 102: Battlefield 2042 stock level: 1400
+ ID 104: Fifa 22 stock level: 600
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1000
+ ID 107: Grand theft Auto:The Triolgy stock level: 2300
+ ID 108: Elden Ring stock level: 500
+ ID 109: Call of Duty: Vanguard stock level: 1700
+ ID 110: Final Fantasy XIV: Endwalker stock level: 300
+
+stockLis1.stockLower5();
+StockList stockLis1 = new StockList();
+StockDemo stockDem1 = new StockDemo(stockLis1);
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+Bought 700Gears of War
+Bought 200Battlefield 2042
+Couldn't find product
+Bought 100Fifa 22
+Bought 300Farcry 6
+Bought 1400God of War Ragnarök
+Bought 2500Grand theft Auto:The Triolgy
+Bought 400Elden Ring
+Bought 2000Call of Duty: Vanguard
+Bought 300Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 700
+ ID 102: Battlefield 2042 stock level: 200
+ ID 104: Fifa 22 stock level: 100
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1400
+ ID 107: Grand theft Auto:The Triolgy stock level: 2500
+ ID 108: Elden Ring stock level: 400
+ ID 109: Call of Duty: Vanguard stock level: 2000
+ ID 110: Final Fantasy XIV: Endwalker stock level: 300
+
+Can't sell 
+sold 200God of War Ragnarök
+sold 100Grand theft Auto:The Triolgy
+sold 150Elden Ring
+sold 150Call of Duty: Vanguard
+sold 150Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 700
+ ID 102: Battlefield 2042 stock level: 200
+ ID 104: Fifa 22 stock level: 100
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1200
+ ID 107: Grand theft Auto:The Triolgy stock level: 2400
+ ID 108: Elden Ring stock level: 250
+ ID 109: Call of Duty: Vanguard stock level: 1850
+ ID 110: Final Fantasy XIV: Endwalker stock level: 150
+
+stockLis1.stockLower5();
+StockList stockLis1 = new StockList();
+StockDemo stockDem1 = new StockDemo(stockLis1);
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 0
+ ID 102: Battlefield 2042 stock level: 0
+ ID 104: Fifa 22 stock level: 0
+ ID 105: Farcry 6 stock level: 0
+ ID 106: God of War Ragnarök stock level: 0
+ ID 107: Grand theft Auto:The Triolgy stock level: 0
+ ID 108: Elden Ring stock level: 0
+ ID 109: Call of Duty: Vanguard stock level: 0
+ ID 110: Final Fantasy XIV: Endwalker stock level: 0
+
+Bought 4Gears of War
+Bought 4Battlefield 2042
+Couldn't find product
+Bought 100Fifa 22
+Bought 300Farcry 6
+Bought 1400God of War Ragnarök
+Bought 2500Grand theft Auto:The Triolgy
+Bought 400Elden Ring
+Bought 2000Call of Duty: Vanguard
+Bought 300Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 4
+ ID 102: Battlefield 2042 stock level: 4
+ ID 104: Fifa 22 stock level: 100
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1400
+ ID 107: Grand theft Auto:The Triolgy stock level: 2500
+ ID 108: Elden Ring stock level: 400
+ ID 109: Call of Duty: Vanguard stock level: 2000
+ ID 110: Final Fantasy XIV: Endwalker stock level: 300
+
+sold 1Gears of War
+sold 2Battlefield 2042
+Can't sell 
+sold 200God of War Ragnarök
+sold 100Grand theft Auto:The Triolgy
+sold 150Elden Ring
+sold 150Call of Duty: Vanguard
+sold 150Final Fantasy XIV: Endwalker
+
+ Samuel's Stock List
+ ====================
+
+ ID 101: Gears of War stock level: 3
+ ID 102: Battlefield 2042 stock level: 2
+ ID 104: Fifa 22 stock level: 100
+ ID 105: Farcry 6 stock level: 300
+ ID 106: God of War Ragnarök stock level: 1200
+ ID 107: Grand theft Auto:The Triolgy stock level: 2400
+ ID 108: Elden Ring stock level: 250
+ ID 109: Call of Duty: Vanguard stock level: 1850
+ ID 110: Final Fantasy XIV: Endwalker stock level: 150
+
+stockLis1.stockLower5();
+ Stock Below 5 
+ ------------- 
+ ID 101: Gears of War stock level: 3
+ Stock Below 5 
+ ------------- 
+ ID 102: Battlefield 2042 stock level: 2

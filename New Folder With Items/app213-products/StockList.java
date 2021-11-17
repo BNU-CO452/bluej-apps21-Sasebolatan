@@ -28,6 +28,21 @@ public class StockList
     {
         stock.add(item);
     }
+    public void remove (int productID)
+     {
+        Product product = findProduct(productID);
+        if(product !=null)
+            {
+                System.out.println(product+ "has been removed");   
+                stock.remove(product); 
+            }      
+        else
+            {
+                System.out.println("no item with that ID exist");
+            
+    }
+    
+    }
     
     /**
      * A method to buy a single quantity of the product
@@ -172,5 +187,22 @@ public class StockList
         System.out.println(" Samuel's Stock List");
         System.out.println(" ====================");
         System.out.println();
+    }
+    
+    /**
+    * Show Stock under 5
+    */
+    public void stockLower5()
+    {
+        for(Product product : stock)
+        {
+            if(product.getQuantity() < 5 )
+            {
+                System.out.println(" Stock Below 5 ");
+                System.out.println(" ------------- ");
+                System.out.println(product);
+            }
+            
+        }
     }
 }
