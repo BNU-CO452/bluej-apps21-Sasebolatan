@@ -1,0 +1,428 @@
+Student samuel = new Student("samuel", 21928112);
+Course SoftwareEng = new Course("BT1SFT1", "Software Engineering");
+samuel.enrol(SoftwareEng);
+SoftwareEng.print();
+
+ Course BT1SFT1: Software Engineering
+Module CO452 = new Module("CO452", "programming concepts");
+SoftwareEng.addModule(CO452);
+ModuleMark samuelco452mark = new ModuleMark(CO452);
+samuelco452mark.setMark(87);
+samuel.addMark(samuelco452mark);
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, samuel
+
+ Course BT1SFT1: Software Engineering
+
+ CO452: 	programming concepts
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ No Final Course Grade Yet!
+Student samuel = new Student();
+Course SoftwareEng = new Course();
+Module co450 = new Module("co450", "programming cocepts");
+SoftwareEng.addModule(co450);
+samuel.enrol(SoftwareEng);
+ModuleMark samco450modulemark = new ModuleMark(co450);
+samco450modulemark.setMark(87);
+samuel.addMark(samco450modulemark);
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ co450: 	programming cocepts
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ No Final Course Grade Yet!
+Student samuel = new Student();
+Course softwareeng = new Course();
+Module co452 = new Module("co452", "programming conepts");
+samuel.enrol(softwareeng);
+softwareeng.addModule(co452);
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ co452: 	programming conepts
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ No Final Course Grade Yet!
+ModuleMark sammodulemark = new ModuleMark(co452);
+sammodulemark.setMark(70);
+samuel.addMark(sammodulemark);
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ co452: 	programming conepts
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ co452: 	programming conepts	  15	70
+
+ No Final Course Grade Yet!
+Module co456 = new Module("co456", "web development");
+ModuleMark samuelmodulemark = new ModuleMark(co456);
+samuelmodulemark.setMark(55);
+samuel.addMark(samuelmodulemark);
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ co452: 	programming conepts
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ co452: 	programming conepts	  15	70
+ co456: 	web development	  15	55
+
+ No Final Course Grade Yet!
+Module co454 = new Module("co454", "computer architecture");
+ModuleMark co454mark = new ModuleMark(co454);
+co454mark.setMark(80);
+samuel.addMark(co454mark);
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ co452: 	programming conepts
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ co452: 	programming conepts	  15	70
+ co456: 	web development	  15	55
+ co454: 	computer architecture	  15	80
+
+ No Final Course Grade Yet!
+Module co450 = new Module("co450", "digital technologies");
+ModuleMark co450modulemark = new ModuleMark(co450);
+co450modulemark.setMark(45);
+samuel.addMark(co450modulemark);
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ co452: 	programming conepts
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ co452: 	programming conepts	  15	70
+ co456: 	web development	  15	55
+ co454: 	computer architecture	  15	80
+ co450: 	digital technologies	  15	45
+
+ No Final Course Grade Yet!
+Student samuel = new Student();
+Course SoftwareEng = new Course();
+Module co452 = new Module("c0452", "programming concepts   ");
+SoftwareEng.addModule(co452);
+samuel.getID()
+    returned int 21928112
+samuel.enrol(SoftwareEng);
+ModuleMark co452mark = new ModuleMark(co452);
+co452mark.setMark(65);
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ c0452: 	programming concepts   
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ Final Course Grade = F
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ c0452: 	programming concepts   
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ Final Course Grade = F
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ c0452: 	programming concepts   
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ Final Course Grade = F
+co452mark.setMark(60);
+samuel.addMark(co452mark);
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ c0452: 	programming concepts   
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ c0452: 	programming concepts   	  15	60B
+
+
+ Final Course Grade = F
+Module co450 = new Module("c0450", "computer architechtures");
+ModuleMark co450mark = new ModuleMark(co450);
+co450mark.setMark(55);
+Module co454 = new Module("co454", "Digital technologies");
+ModuleMark co454mark = new ModuleMark(co454);
+co454mark.setMark(70);
+samuel.addMark(co450mark);
+samuel.addMark(co454mark);
+Module co453 = new Module("co453", "application programming");
+ModuleMark co453mark = new ModuleMark(co453);
+samuel.addMark(co453mark);
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ c0452: 	programming concepts   
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ c0452: 	programming concepts   	  15	60B
+
+ c0450: 	computer architechtures	  15	55C
+
+ co454: 	Digital technologies	  15	70A
+
+ co453: 	application programming	  0	0F
+
+
+ Final Course Grade = D
+co453mark.setMark(55);
+samuel.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+
+ c0452: 	programming concepts   
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ c0452: 	programming concepts   	  15	60B
+
+ c0450: 	computer architechtures	  15	55C
+
+ co454: 	Digital technologies	  15	70A
+
+ co453: 	application programming	  15	55C
+
+
+ Final Course Grade = B
+Student sam = new Student();
+Course softwareeng = new Course();
+sam.enrol(softwareeng);
+sam.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+	Course Modules
+	----------------
+
+	co452	programming concepts	co450	computer architectures	co454	digital technologies	Co453	application programming
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ co452: 	programming concepts	  15	75A
+
+ co450: 	computer architectures	  15	65B
+
+ co454: 	digital technologies	  15	55C
+
+ Co453: 	application programming	  15	45D
+
+
+ Final Course Grade = B
+Student sam = new Student();
+Course softwareeng = new Course();
+sam.enrol(softwareeng);
+sam.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+	Course Modules
+	----------------
+
+	co452	programming concepts	co450	computer architectures	co454	digital technologies	Co453	application programming
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ co452: 	programming concepts	  15	46D
+
+ co450: 	computer architectures	  0	30F
+
+ co454: 	digital technologies	  15	68B
+
+ Co453: 	application programming	  0	12F
+
+
+ Final Course Grade = F
+sam.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+	Course Modules
+	----------------
+
+	co452	programming concepts	co450	computer architectures	co454	digital technologies	Co453	application programming
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ co452: 	programming concepts	  15	46D
+
+ co450: 	computer architectures	  0	30F
+
+ co454: 	digital technologies	  15	68B
+
+ Co453: 	application programming	  0	12F
+
+
+ Final Course Grade = F
+Student sam = new Student();
+Course sofwareeng = new Course();
+sam.enrol(sofwareeng);
+sam.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 21928112, Samuel
+
+ Course BT1SFT1: Bsc SoftwareEngineering
+	Course Modules
+	----------------
+
+	co452	programming concepts	co450	computer architectures	co454	digital technologies	Co453	application programming
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+ co452: 	programming concepts	  0	34F
+
+ co450: 	computer architectures	  15	79A
+
+ co454: 	digital technologies	  15	75A
+
+ Co453: 	application programming	  0	7F
+
+
+ Final Course Grade = D
