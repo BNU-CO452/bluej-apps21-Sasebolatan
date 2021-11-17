@@ -16,9 +16,9 @@ public class StockDemo
      * Create a StockManager and populate it with at least
      * 10 sample products.
      */
-    public StockDemo()
+    public StockDemo(StockList stock)
     {
-        this.stock = new StockList();
+        this.stock = stock;
         
         // Add at least 10 products, they must be unique to you
         // Make sure the ids are sequential numbers
