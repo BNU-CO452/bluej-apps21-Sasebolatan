@@ -45,15 +45,41 @@ public class StockList
      * @param amount The amount to increase the quantity by.
      */
     public void buyProduct(int productID, int amount)
-    {
+    {  
+        Product product = findProduct(productID);
+       if(product != null) 
+        {
+            if(product.getQuantity() > 1000)
+            {
+                product.increaseQuantity(1);
+                System.out.println("Bought " + amount + product.getName());
+                // printout message
+            }
+            else
+            {
+                System.out.println ("Not enough space for " + product.getName() +
+                                          " sell existing stock");
+                // printout message
+                
+            }
+        }
+        else
+        {
+            System.out.println("Couldn't find product");
+            // printout message
+        }
     }
-    
     /**
      * Find a product to match the product id,
      * if not found return null
      */
     public Product findProduct(int productID)
     {
+        for(Product product : stock)
+        {
+            if(product.getID ( ) == productID)
+            return product;
+        }
         return null;
     }
     
@@ -64,24 +90,35 @@ public class StockList
      * @param id The ID of the product being sold.
      */
     public void sellProduct(int productID)
+    { 
+        sellProduct(productID, 1);
+    } 
+    
+    
+    
+    public void sellProduct(int productID ,int amount)
     {
         Product product = findProduct(productID);
         
         if(product != null) 
         {
-            if(product.getQuantity() > 0)
+            if(product.getQuantity() > 0&& product.getQuantity() > amount)
             {
-                product.decreaseQuantity(1);
-                
+                product.decreaseQuantity(amount);
+                System.out.println("sold " + amount + product.getName());
                 // printout message
             }
-            else
+            else if(product.getQuantity() == 0)
             {
+                System.out.println ("The product " + product.getName() +
+                                          " is out of stock");
                 // printout message
             }
         }
         else
         {
+            System.out.println("Can't sell " + amount + " of " + product.getName() + 
+                          " because only have "  + product.getQuantity());
             // printout message
         }
     }    
@@ -133,7 +170,7 @@ public class StockList
     public void printHeading()
     {
         System.out.println();
-        System.out.println(" Peacock's Stock List");
+        System.out.println(" Samuel's Stock List");
         System.out.println(" ====================");
         System.out.println();
     }
