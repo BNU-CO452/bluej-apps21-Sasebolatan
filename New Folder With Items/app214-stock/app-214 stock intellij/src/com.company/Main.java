@@ -8,9 +8,12 @@ package com.company;
  */
 
 public class Main {
+    private static StockApp app;
+    private static Object StockApp;
 
-    public static void main(String[] args) {
-        StockApp app = new StockApp();
+    public static void main(String[] args)
+    {
+        StockApp  = new StockApp();
         app.run();
     }
 }
