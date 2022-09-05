@@ -54,7 +54,7 @@ public class StockApp
         { 
             int id = reader.getInt("please enter the ID of the Product");
             String name = reader.getString("please enter the name");
-            Product product = new Product 
+            Product product = new Product
             stock.add (product);
             System.out.println("product " + product.getID()
             + ", " + product.getName);
