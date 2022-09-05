@@ -193,7 +193,7 @@ public class StockApp
     {
         System.out.println("********************************");
         System.out.println("  App21-04: Stock Application ");
-        System.out.println("           by Milena          ");
+        System.out.println("           by Samuel          ");
         System.out.println("********************************");
     }
 }
